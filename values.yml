@@ -1,3 +1,3 @@
 myRepo:
-  gitProvider: my_github
-  path: jfrog/jfrog-pipelines-simple-example
+  gitProvider: omergithub
+  path: omerbfrog/jfrog-pipelines-simple-example
